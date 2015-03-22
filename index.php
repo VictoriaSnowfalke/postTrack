@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/media.css">
     <link rel="stylesheet" href="libs/bootstrap/bootstrap-grid-3.3.1.min.css" />
     <link rel="stylesheet" href="libs/font-awesome-4.2.0/css/font-awesome.min.css" />
- 
+    <link rel="stylesheet" href="libs/animate/animate.min.css" />
     </head>
 <body>
 <div class="top_header">
@@ -100,6 +100,11 @@
         </div>
     </div>
 </div>
+
+    <script src="libs/jquery/jquery-1.11.1.min.js"></script>
+	<script src="libs/waypoints/waypoints-1.6.2.min.js"></script>
+	<script src="libs/animate/animate-css.js"></script>
+	<script src="js/common.js"></script>
 
 </body>
 </html>
