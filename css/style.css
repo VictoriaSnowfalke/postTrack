@@ -1,13 +1,16 @@
-﻿body {
+﻿@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600&subset=latin,cyrillic);
+
+body {
     margin: 0;
     padding: 0;
-    font-family: Tahoma, Arial;
+    font-family: 'Open Sans', sans-serif;
     background: #777;
     position: relative;
     overflow-x: hidden;
     }
     
 .top_header h1{
+    font-family: 'Open Sans', sans-serif;
     background: #F92267;
     color: white;
     padding: 10px 10px;
@@ -30,6 +33,7 @@
 }
 
 .title-name{
+    font-family: 'Open Sans', sans-serif;
     background: #FF76A9;
     border-radius: 10px 10px 0 0;
 }
@@ -41,10 +45,22 @@
     text-align: center;
 }
 .main {
+    font-family: 'Open Sans', sans-serif;
     padding-bottom: 40px;
 }
 
+.info{
+    font-weight: 400;
+}
+.date{
+    font-weight: 600;
+}
+.time{
+    font-weight: 300;
+}
+
 .footer{
+    font-family: 'Open Sans', sans-serif;
     background: #444;
     color: white;
     padding: 10px 10px;
