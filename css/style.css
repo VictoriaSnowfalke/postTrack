@@ -8,7 +8,7 @@
     }
     
 .top_header h1{
-    background: #444;
+    background: #F92267;
     color: white;
     padding: 10px 10px;
     line-height: 50px;
@@ -30,13 +30,13 @@
 }
 
 .title-name{
-    background: #0189ff;
+    background: #FF76A9;
     border-radius: 10px 10px 0 0;
 }
 
 .title-icons{
     font-size: 30px;
-    background: #0189ff!important;
+    background: #FF76A9!important;
     border-radius: 10px 10px 0 0;
     text-align: center;
 }
